@@ -17,8 +17,7 @@ changing a few things..
 - [Paras Ahuja] - My first open source contribution
 - [creator17-learning](https://github.com/creator17-learning) -  my first Open Source journey happy
 - [niixss](https://github.com/niixss)
-- - [Tiago Mendes](https://github.com/syler1849)
-  - Add Tiago Mendes to contributors list
+- [Tiago Mendes](https://github.com/syler1849)
 - [Elango]- My first open source contribution
 - [Toggy] - My first open source contribution
 - [Shakti](https://github.com/ShaktiStark)- As long as you live there are infinite chances.
